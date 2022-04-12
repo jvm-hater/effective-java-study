@@ -20,3 +20,15 @@
 - [이펙티브자바 공식 Github](https://github.com/WegraLee/effective-java-3e-source-code)
 - [이펙티브자바 3판 번역 용어 설명](https://docs.google.com/document/d/1Nw-_FJKre9x7Uy6DZ0NuAFyYUCjBPCpINxqrP0JFuXk/edit)
 - [잘 정리된 블로그](https://catsbi.oopy.io/d7f3a636-b613-453b-91c7-655d71fda2b1)
+</br>
+
+## 학습 주제
+### 2장
+| 아이템 
+:---: |
+[아이템 1. 생성자 대신 정적 팩터리 메서드를 고려하라](https://github.com/Java-Crew/effective-java-study/tree/main/2%EC%9E%A5/%EC%95%84%EC%9D%B4%ED%85%9C1) |
+[아이템 2. 생성자에 매개변수가 많다면 빌더를 고려하라](https://github.com/Java-Crew/effective-java-study/tree/main/2%EC%9E%A5/%EC%95%84%EC%9D%B4%ED%85%9C2) | 
+[아이템 3. private 생성자나 열거 타입으로 싱글턴임을 보증하라](https://github.com/Java-Crew/effective-java-study/tree/main/2%EC%9E%A5/%EC%95%84%EC%9D%B4%ED%85%9C3) |
+[아이템 4. 인스턴스화를 막으려거든 private 생성자를 사용하라](https://github.com/Java-Crew/effective-java-study/tree/main/2%EC%9E%A5/%EC%95%84%EC%9D%B4%ED%85%9C4) | 
+[아이템 5. 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라](https://github.com/Java-Crew/effective-java-study/tree/main/2%EC%9E%A5/%EC%95%84%EC%9D%B4%ED%85%9C5) | 
+[아이템 6. 불필요한 객체 생성을 피하라](https://github.com/Java-Crew/effective-java-study/tree/main/2%EC%9E%A5/%EC%95%84%EC%9D%B4%ED%85%9C6) |
